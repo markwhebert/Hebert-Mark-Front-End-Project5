@@ -3,9 +3,11 @@ Author: Mark Hebert
 
 
 #Directions for Use:
-Use the search bar to find places you want to go, and the air quality of 
-each place.  For example, enter "camping" into the search bar, and the 
-results will show you spots to camp in your area that have the cleanest air.  
+Lauch the site by opening the index.html file in your browser.  Use the 
+search bar to find places you want to go and the air quality of each place.
+For example, enter "camping" into the search bar, and the results will 
+show you spots to camp in your area that have the cleanest air.  
+NOTE: This application only works for the United States.  
 
 
 #APIs & Libraries: 
@@ -28,7 +30,8 @@ display and editor user interfaces with a clean underlying data model.
 StyledMarker Library:
 -------------
 http://google-maps-utility-library-v3.googlecode.com/svn-history/r161/trunk/styledmarker/
-This library is used to create Markers that can be styled in different ways, such as changing the color or shape, or adding text labels.
+This library is used to create Markers that can be styled in different 
+ways, such as changing the color or shape, or adding text labels.
 
 
 
@@ -41,3 +44,6 @@ StackOverflow
 
 w3schools.com
 	http://www.w3schools.com/js/js_timing.asp
+
+JSHint.com - to clean up my javascript :)
+	http://jshint.com/
